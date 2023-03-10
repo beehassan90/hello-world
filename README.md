@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+# About Me Bee Hassan
+Beginner who are in learning phase
